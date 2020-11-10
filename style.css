@@ -1,0 +1,27 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1586074299757-dc655f18518c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80);
+
+  font-family: "montserrat";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Baskerville";
+  font-weight: bold;
+}
+h2 {
+  text-transform: uppercase;
+  background-color: rgb(110, 158, 110);
+  color: white;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  line-height: 1;
+  transform: translateX(-2rem) rotate(-3deg);
+}
+
+p {
+  text-align: justify;
+}
